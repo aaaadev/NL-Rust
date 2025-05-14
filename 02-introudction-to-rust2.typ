@@ -25,7 +25,7 @@
     [#strong[\@aaaadev]]
   )
 
-    #text(size: 0.8em)[Apr 9, 2025]
+    #text(size: 0.8em)[May 14, 2025]
   ])
 ]
 

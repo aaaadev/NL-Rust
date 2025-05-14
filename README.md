@@ -9,3 +9,4 @@
 | 회차 | 강의 일자 | 강의 주제              | 과제 |
 | --- | ------- | -------------------- | --------- |
 | 1   | 04/09   | [Introduction to Rust](./01-introduction-to-rust.pdf) | 간단한 소수 판정 |
+| 2   | 05/14   | [Introduction to Rust (2)](./02-introduction-to-rust2.pdf) | 소유권 실험 |
